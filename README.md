@@ -1,18 +1,22 @@
-# React + Vite
+# BCF — Bantu Couture Fashion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Luxury Inspired by Tradition
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6bba4695-7bad-4c8f-bcfd-233df753cb5c" />
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern frontend showcase of African attire, culture, and craftsmanship — where heritage meets haute couture.
 
-## React Compiler
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## ✨ About the Project
+Bantu Couture Fashion (BCF) is a web platform celebrating the richness of African fashion. From bold Ankara prints to intricate Kente weaves and Maasai beadwork, BCF brings traditional African artistry into a luxury digital experience.
 
-Note: This will impact Vite dev & build performances.
+### The site showcases:
 
-## Expanding the ESLint configuration
+🧵 African attire collections by region and style
+🎨 Cultural context behind each garment and textile
+🛍️ A curated gallery of designers and artisans
+📖 Stories of tradition, craftsmanship, and identity
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌐 Live Demo
+
+🔗 [Coming Soon — deploy link will be added here]
