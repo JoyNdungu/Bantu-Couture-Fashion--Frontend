@@ -1,5 +1,6 @@
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6bba4695-7bad-4c8f-bcfd-233df753cb5c" />
+
 # BCF — Bantu Couture Fashion
 
 ### Luxury Inspired by Tradition
