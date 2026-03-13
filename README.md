@@ -25,4 +25,4 @@ Bantu Couture Fashion (BCF) is a web platform celebrating the richness of Africa
 
 ### 🌐 Live Demo
 
-🔗 [[Live Demo]](https://bantucouturefashion.vercel.app/)
+🔗 [[Bantu Couture Fashion]](https://bantucouturefashion.vercel.app/)
