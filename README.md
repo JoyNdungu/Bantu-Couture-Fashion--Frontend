@@ -1,7 +1,9 @@
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6bba4695-7bad-4c8f-bcfd-233df753cb5c" />
+
 # BCF — Bantu Couture Fashion
 
-Luxury Inspired by Tradition
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6bba4695-7bad-4c8f-bcfd-233df753cb5c" />
+### Luxury Inspired by Tradition
 
 
 A modern frontend showcase of African attire, culture, and craftsmanship — where heritage meets haute couture.
@@ -13,10 +15,14 @@ Bantu Couture Fashion (BCF) is a web platform celebrating the richness of Africa
 ### The site showcases:
 
 🧵 African attire collections by region and style
+
 🎨 Cultural context behind each garment and textile
+
 🛍️ A curated gallery of designers and artisans
+
 📖 Stories of tradition, craftsmanship, and identity
 
-🌐 Live Demo
+
+### 🌐 Live Demo
 
 🔗 [Coming Soon — deploy link will be added here]
